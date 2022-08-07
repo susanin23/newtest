@@ -15,4 +15,3 @@
 <class 'bool'>
 <class 'NoneType'>
 """
-# test edit
